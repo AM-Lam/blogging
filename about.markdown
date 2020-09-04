@@ -1,18 +1,16 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
+sidebar_link: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hey! Welcome to my space.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Currently doing a computer science degree at the University of New South Wales in Sydney Australia.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+As a contradicted person, I am interested in different aspects of the coding life, including but not limited to security, data analytics, and web dev. 
 
+I have a kind of obsession with the programming language and competition, like a hackathon, coding comp, AND <bold>CTF</bold>. Open for study group or forming a team at all times!
 
-[jekyll-organization]: https://github.com/jekyll
+You are having a great day :)))

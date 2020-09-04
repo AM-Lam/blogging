@@ -1,5 +1,5 @@
 <nav id="sidebar-icon-links">
-  {% if site.hydeout.repo %}
+  <!-- {% if site.hydeout.repo %}
     <a id="github-link"
        class="icon" title="Github Project" aria-label="Github Project"
        href="{{ site.hydeout.repo }}">
@@ -10,12 +10,30 @@
        href="{{ site.hydeout.repo }}/archive/v{{ site.hydeout.version }}.zip">
       {% include svg/download.svg %}
     </a>
-  {% endif %}
+  {% endif %} -->
 
-  <a id="subscribe-link"
+  <!-- <a id="subscribe-link"
      class="icon" title="Subscribe" aria-label="Subscribe"
      href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
     {% include svg/feed.svg %}
+  </a> -->
+
+  <a id="github-link"
+    class="icon" title="Github Project" aria-label="Github Project"
+    href="https://github.com/{{ site.github_username }}">
+    {% include svg/github.svg %}
+  </a>
+
+  <a id="twitter-link"
+    class="icon" title="Twitter" aria-label="Subscribe"
+    href="https://twitter.com/{{ site.twitter_username }}">
+    {% include svg/twitter1.svg %}
+  </a>
+
+  <a id="linkedin-link"
+    class="icon" title="Twitter" aria-label="Subscribe"
+    href="https://linkedin.com/in/{{ site.linkedin_username }}">
+    {% include svg/linkedin.svg %}
   </a>
 
   {% comment %}
