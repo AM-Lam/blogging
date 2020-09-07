@@ -5,6 +5,7 @@ date:     2020-02-29 14:33:56 +1100
 time:      April 20, 2010
 location: Gulf of Mexico
 categories: "Case Study"
+tags: Case Study, security
 ---
 <h2>Background</h2>
 The Deepwater Horizon oil spill is the largest marine oil spill in history. The explosion on the rig killed 11 crewmen. The Horizon sank and caused millions of barrels of oil spewed unchecked into the ocean, which is one of the largest environmental disasters in American history.
