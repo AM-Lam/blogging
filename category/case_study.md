@@ -1,5 +1,5 @@
 ---
 layout: category
-title: blog
+title: Case Study
 category: Category
 ---
