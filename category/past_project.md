@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Case Study
+title: Past Project
 category: Category
 ---
